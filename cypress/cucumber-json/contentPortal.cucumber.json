@@ -1,0 +1,182 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Login page with valid username and password",
+    "line": 1,
+    "id": "login-page-with-valid-username-and-password",
+    "tags": [],
+    "uri": "contentPortal.feature",
+    "elements": [
+      {
+        "id": "login-page-with-valid-username-and-password;valid-username-and-password-flow",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Valid username and password flow",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "user provide username",
+            "result": {
+              "status": "passed",
+              "duration": 5713000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "user provide password",
+            "result": {
+              "status": "passed",
+              "duration": 747000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "user click on login button",
+            "result": {
+              "status": "passed",
+              "duration": 167000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "login-page-with-valid-username-and-password;check-end-to-end-flow",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "Check End to End flow",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 9,
+            "name": "user provide username",
+            "result": {
+              "status": "passed",
+              "duration": 1764000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "user provide password",
+            "result": {
+              "status": "passed",
+              "duration": 362000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "user click on login button",
+            "result": {
+              "status": "passed",
+              "duration": 130000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 12,
+            "name": "user click on selectAll",
+            "result": {
+              "status": "passed",
+              "duration": 1524000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 13,
+            "name": "user click on ViewSelected",
+            "result": {
+              "status": "passed",
+              "duration": 818000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "login-page-with-valid-username-and-password;validate-the-settings-page",
+        "keyword": "Scenario",
+        "line": 15,
+        "name": "Validate the settings page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 16,
+            "name": "user provide username",
+            "result": {
+              "status": "passed",
+              "duration": 1538000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "user provide password",
+            "result": {
+              "status": "passed",
+              "duration": 346000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "user click on login button",
+            "result": {
+              "status": "passed",
+              "duration": 133000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 19,
+            "name": "user click on selectAll",
+            "result": {
+              "status": "passed",
+              "duration": 1363000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 20,
+            "name": "user click on ViewSelected",
+            "result": {
+              "status": "passed",
+              "duration": 230000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "user validate settings page",
+            "result": {
+              "status": "passed",
+              "duration": 2301000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

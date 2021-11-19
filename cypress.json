@@ -1,0 +1,10 @@
+{
+
+    "defaultCommandTimeout": 8000,
+    "pageLoadTimeout": 100000,
+    "viewportHeight":800,
+    "viewportWidth":1000,
+    "testFiles": "**/*.feature"
+      
+
+}
